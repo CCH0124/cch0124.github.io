@@ -1,0 +1,18 @@
+{
+  "name": "cch0124-blog",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.22",
+    "vitepress": "^1.6.3"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  }
+}
