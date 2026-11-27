@@ -48,6 +48,16 @@ const spots: TravelSpot[] = [
   { id: 'jeju-dongmun', name: '東門水產市場', category: 'travel', region: 'kr', area: '韓國 · 濟州島', date: '2023/11', lat: 33.5122, lng: 126.5267 },
   { id: 'jeju-olle', name: '西歸浦每日偶來市場', category: 'travel', region: 'kr', area: '韓國 · 濟州島', date: '2023/11', lat: 33.2486, lng: 126.5643 },
 
+  // 韓國旅行 - 2024/06 釜山
+  { id: 'busan-songdo', name: '松島海上纜車站', category: 'travel', region: 'kr', area: '韓國 · 釜山', date: '2024/06/22-26', lat: 35.0762, lng: 129.018, note: '松島灣纜車站' },
+  { id: 'busan-eggdrop', name: 'Egg Drop（南浦洞）', category: 'travel', region: 'kr', area: '韓國 · 釜山南浦洞', date: '2024/06/22-26', lat: 35.0985, lng: 129.0353, note: '早餐' },
+  { id: 'busan-blueline', name: '海雲台藍線公園 · 尾浦站', category: 'travel', region: 'kr', area: '韓國 · 釜山', date: '2024/06/22-26', lat: 35.159, lng: 129.1663, note: '天空膠囊小火車' },
+  { id: 'busan-xthesky', name: 'Busan X the SKY', category: 'travel', region: 'kr', area: '韓國 · 釜山', date: '2024/06/22-26', lat: 35.1603, lng: 129.169 },
+  { id: 'busan-diamondbay', name: '鑽石灣遊艇碼頭', category: 'travel', region: 'kr', area: '韓國 · 釜山', date: '2024/06/22-26', lat: 35.1278, lng: 129.117, note: '夜景' },
+  { id: 'busan-gamcheon', name: '甘川洞文化村', category: 'travel', region: 'kr', area: '韓國 · 釜山', date: '2024/06/22-26', lat: 35.097, lng: 129.009 },
+  { id: 'busan-aquarium', name: 'SEA LIFE 釜山水族館', category: 'travel', region: 'kr', area: '韓國 · 釜山', date: '2024/06/22-26', lat: 35.1593, lng: 129.161 },
+  { id: 'busan-gijang', name: '機張市場', category: 'travel', region: 'kr', area: '韓國 · 釜山', date: '2024/06/22-26', lat: 35.2443, lng: 129.2155 },
+
   // 台灣露營
   { id: 'hetian', name: '禾田', category: 'camp', region: 'tw', area: '台灣 · 露營', lat: 24.312, lng: 120.825 },
   { id: 'sophiekevin', name: '蘇菲凱文', category: 'camp', region: 'tw', area: '台灣 · 新竹五峰', lat: 24.618, lng: 121.119 },
